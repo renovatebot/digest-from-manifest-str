@@ -1,0 +1,25 @@
+{
+  "name": "digest-from-manifest-str",
+  "version": "0.0.1",
+  "description": "This function extracted from https://github.com/joyent/node-docker-registry-client",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn eslint index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renovatebot/digest-from-manifest-str.git"
+  },
+  "license": "MPL-2.0",
+  "devDependencies": {
+    "eslint": "5.3.0",
+    "eslint-config-airbnb": "17.1.0",
+    "eslint-plugin-import": "2.18.0",
+    "eslint-plugin-jsx-a11y": "6.2.1",
+    "eslint-plugin-react": "7.14.2"
+  },
+  "dependencies": {
+    "base64url": "3.0.1",
+    "jwk-to-pem": "2.0.1"
+  }
+}
