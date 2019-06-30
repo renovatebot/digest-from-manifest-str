@@ -1,0 +1,1 @@
+# digest-from-manifest-str
